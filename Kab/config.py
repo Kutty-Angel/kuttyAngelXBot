@@ -1,5 +1,5 @@
-# Created By @Its_romeoo
-# Copyright By M8N
+# Created By @ONLY_DUSKY
+# Copyright By kab
 
 from os import getenv
 
@@ -25,8 +25,8 @@ MONGO_DB_URI = getenv("MONGO_DB_URI")
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 OWNER_ID = int(getenv("OWNER_ID", "5058236569"))
-UPDATE = getenv("UPDATE", "M8N_OFFICIAL")
-SUPPORT = getenv("SUPPORT", "M8N_SUPPORT")
+UPDATE = getenv("UPDATE", "DuskyBotZUpdates")
+SUPPORT = getenv("SUPPORT", "DuskyBotZSupport")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "999"))
 CMD_MUSIC = list(getenv("CMD_MUSIC", "/ !").split())
 BG_IMG = getenv("BG_IMG")
