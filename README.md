@@ -1,7 +1,7 @@
-### A powerful bot that can play music on telegram group's voice chat with some useful features !!
+### Kutty Angel An powerful bot that can play music on telegram group's voice chat with some useful features !!
 
 <p align="center">
-  <img src="https://telegra.ph/file/00a389a0c21a632ee29aa.jpg">
+  <img src="https://telegra.ph/file/4935b94ee534ac94319ad.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -48,34 +48,29 @@
 - [Python3.9](https://www.python.org/downloads/release/python-390/)
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
-- [MongoDB URI](https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_footprint_row_search_brand_phrase_intent_test_atlas_mobile&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=13277278264&adgroup=124506944562&gclid=EAIaIQobChMI9ITXp4-i-AIVjTgrCh224AYxEAAYASAAEgImx_D_BwE)
-- [Pyrogram String Session](https://t.me/M8N_SESSION_BOT)
-
-
-### 🚨 Generate String Session
-      @M8N_SESSION_BOT by using this bot
-
+- [MongoDB URI](https://www.mongodb.com)
+- [Pyrogram String Session](https://www.replit.com)
 
 ### 🚀 Deploy To Heroku
   
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/UnknownMortal/M8N-Music-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-yellow?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Kutty-Angel/KuttyAngelXBot.git"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-yellow?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Contact & Support
 
-<a href="https://t.me/M8N_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/M8N_OFFICIAL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/DuskyBotZSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/DuskyBotZUpdates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
 
 
 ## ⚠️ Security
 
-M8N-Music-Bot follows good practices of security, but 100% security cannot be assured. M8N-Music-Bot is provided **"as is"** without any **warranty**. Use at your own risk.
+Kutty Angel Music Bot follows good practices of security, but 100% security cannot be assured. M8N-Music-Bot is provided **"as is"** without any **warranty**. Use at your own risk.
 
-For more information and to report security issues, please refer to our [`M8N • SUPPORT`](https://t.me/M8N_SUPPORT)
+For more information and to report security issues, please refer to our [`M8N • SUPPORT`](https://t.me/DuskyBotZSupport)
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License](https://github.com/UnknownMortal/M8N-Music-Bot/blob/main/LICENSE) See `LICENSE.md` for more information.
+Distributed under the [GNU General Public License v3.0 License](https://github.com/Kutty-Angel/KuttyAngelXBot/blob/main/LICENSE) See `LICENSE.md` for more information.
 
 ## Credits
 
@@ -88,6 +83,6 @@ Distributed under the [GNU General Public License v3.0 License](https://github.c
 - CallsMusic 
 - PyTgCalls
 - Pyrogram
-- @Cool_Mortal
-- @M8N_OFFICIAL
-- @Its_romeoo
+- @DuskyBotZSupport
+- @DuskyBotZUpdates
+- @ONLY_DUSKY
