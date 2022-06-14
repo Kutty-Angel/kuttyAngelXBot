@@ -2,12 +2,12 @@ import asyncio
 import requests
 from pyrogram import Client
 from pytgcalls import idle
-from m8n import app
-from m8n import client
-from m8n.database.functions import clean_restart_stage
-from m8n.database.queue import get_active_chats, remove_active_chat
-from m8n.tgcalls.calls import run
-from m8n.config import API_ID, API_HASH, BOT_TOKEN, BG_IMG, OWNER_ID, BOT_NAME
+from kab import app
+from kab import client
+from kab.database.functions import clean_restart_stage
+from kab.database.queue import get_active_chats, remove_active_chat
+from kab.tgcalls.calls import run
+from kab.config import API_ID, API_HASH, BOT_TOKEN, BG_IMG, OWNER_ID, BOT_NAME
 
 
 response = requests.get(BG_IMG)
@@ -23,7 +23,7 @@ async def load_start():
             await app.edit_message_text(
                 restart_data["chat_id"],
                 restart_data["message_id"],
-                "**Restarted the Bot Successfully.**",
+                "**Restarted the Kutty Angel Successfully.**",
             )
         except Exception:
             pass
@@ -40,10 +40,10 @@ async def load_start():
         except Exception as e:
             print("Error came while clearing db")
             pass
-    await app.send_message(OWNER_ID, "**M8N Music Bot Started Successfully !!**")
+    await app.send_message(OWNER_ID, "**Kutty Angel Music Bot Started Successfully !!**")
    # Copyrighted Area
-    await client.join_chat("M8N_SUPPORT")
-    await client.join_chat("M8N_OFFICIAL")
+    await client.join_chat("DuskyBotZSupport")
+    await client.join_chat("DuskyBotZUpdates")
     print("[INFO]: STARTED")
     
 
@@ -55,7 +55,7 @@ Client(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins={"root": "m8n.modules"},
+    plugins={"root": "kab.modules"},
 ).start()
 
 run()
