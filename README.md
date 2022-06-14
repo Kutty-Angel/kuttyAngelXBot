@@ -64,9 +64,9 @@
 
 ## ⚠️ Security
 
-Kutty Angel Music Bot follows good practices of security, but 100% security cannot be assured. M8N-Music-Bot is provided **"as is"** without any **warranty**. Use at your own risk.
+Kutty Angel Music Bot follows good practices of security, but 100% security cannot be assured. Kutty Angel is provided **"as is"** without any **warranty**. Use at your own risk.
 
-For more information and to report security issues, please refer to our [`M8N • SUPPORT`](https://t.me/DuskyBotZSupport)
+For more information and to report security issues, please refer to our [`DUSKY • SUPPORT`](https://t.me/DuskyBotZSupport)
 
 ## License
 
